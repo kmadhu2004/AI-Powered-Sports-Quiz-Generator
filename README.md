@@ -1,5 +1,3 @@
-<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/2038d41b-6e8d-47b2-b73c-b2b191e5ffa1" /># 🏆 AI Powered Sports Quiz Generator
-
 ## 📌 Project Overview
 
 The AI Powered Sports Quiz Generator is a Retrieval-Augmented Generation (RAG) based application that generates high-quality sports quizzes using Artificial Intelligence.
@@ -147,7 +145,7 @@ The application provides an interactive Gradio interface where users can:
 
 Below is the interactive Gradio dashboard of the AI Powered Sports Quiz Generator.
 
-<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/8ef32e34-d780-465b-b6c3-82f3c7549d66" />
+<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/2038d41b-6e8d-47b2-b73c-b2b191e5ffa1" /># 🏆 AI Powered Sports Quiz Generator
 
 ## 👨‍💻 Author
 
